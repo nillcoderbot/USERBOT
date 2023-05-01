@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">𝐙𝐚𝐢𝐝 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 🔥 </p>
+<p align="center">𝐔𝐬𝐞𝐫𝐛𝐨𝐭 🔥 </p>
 
 - A First Telegram Userbot Project With Multi Clients Based On PyroGram
 
@@ -57,7 +57,7 @@ Checkout Tutorial!
 Zaid@Debian~ $ apt-get -y update
 Zaid@Debian~ $ apt-get -y install git gcc python3-pip -y
 Zaid@Debian~ $ git clone https://github.com/NILLCODERBOT/USERBOT
-Zaid@Debian~ $ cd ZAID-USERBOT
+Zaid@Debian~ $ cd USERBOT
 Zaid@Debian~ $ pip3 install -U -r requirements.txt
 Zaid@Debian~ $ cp sample.env .env
 Zaid@Debian~ $ nano .env
@@ -90,7 +90,7 @@ and you ended up in a Finale Battle with Telegram and at the end
 ```
 
 ## Credits 💖
-- Zect Userbot
+- Userbot
 - Man
 - pyrogram
 - xyz ⚡
